@@ -2,9 +2,11 @@
 
 #### Computer Science and Engineering major Student
 
+im yeongnam univ's student, 2nd grade I currently finished my national defense duty and came back to univ
+
 🛠️ Stacks
 
-none
+none(idk)
 
 💪🏼 Tools 
 
@@ -13,7 +15,6 @@ none
 🐱 About Me
 
 [![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-blue?logo=tistory)](https://hajinpoka.tistory.com/)
-
 
 
 🏅 Algorithm Gold Level. 
