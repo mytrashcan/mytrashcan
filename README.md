@@ -2,10 +2,9 @@
 
 #### Computer Science and Engineering major Student
 
-
 🛠️ Stacks
 
-nothing
+none
 
 💪🏼 Tools 
 
@@ -13,7 +12,7 @@ nothing
 
 🐱 About Me
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)]((https://hajinpoka.tistory.com/))]
+[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-blue?logo=tistory)](https://hajinpoka.tistory.com/)
 
 
 
