@@ -13,7 +13,7 @@ nothing
 
 🐱 About Me
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)]([hajinpoka](https://hajinpoka.tistory.com/))
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)]((https://hajinpoka.tistory.com/))
 
 
 
