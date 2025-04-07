@@ -2,7 +2,7 @@
 
 #### Computer Science and Engineering major Student
 
-im yeongnam univ's student, 2nd grade I currently finished my national defense duty and came back to univ
+im yeongnam univ's student kitae jeong, I currently finished my national defense duty and came back to univ
 
 🛠️ Stacks
 
