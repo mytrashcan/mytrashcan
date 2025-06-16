@@ -5,7 +5,7 @@ kitaejeong
 computer science & enginnering
 
 ## skills  
-programming language: C++, Python
+programming language: C++, Python  
 tool: git
 
 ## to-do  
