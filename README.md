@@ -1,12 +1,12 @@
-name  
+## name  
 kitaejeong
 
-major  
+## major  
 computer science & enginnering
 
-skills  
+## skills  
 programming language: C++, Python
 tool: git
 
-to-do  
+## to-do  
 learning one low level language (Verilog)
