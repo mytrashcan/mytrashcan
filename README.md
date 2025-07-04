@@ -2,12 +2,12 @@
 kitaejeong
 
 ## major  
-computer science & enginnering
+computer science & engineering
 
 ## skills  
-programming language: C++, Python  
-tool: git  
-cloud: aws, oracle, gcp  
+programming languages: C++, Python  
+tools: git  
+cloud platforms: aws, oracle(currently using)
 
 ## to-do  
-learning one low level language (Verilog)
+learning a low level language (Verilog
