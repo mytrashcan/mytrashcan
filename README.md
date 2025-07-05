@@ -10,7 +10,7 @@ tools: git
 cloud platforms: aws, oracle(currently using)
 
 ## current
-studing java language
+studying java language  
 
 ## to-do  
 learning a low level language (Verilog)
