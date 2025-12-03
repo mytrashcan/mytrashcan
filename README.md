@@ -12,6 +12,7 @@ cloud platforms: aws, oracle(currently using)
 ## current
 studying java language  
 studying arm assembly  
-
+studying Verliog  
+  
 ## to-do  
-learning a low level language (Verilog)
+  
