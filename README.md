@@ -5,12 +5,11 @@ kitaejeong
 computer science & engineering
 
 ## skills  
-programming languages: C++, Python  
+programming languages: C/C++, Java, Python  
 tools: git  
 cloud platforms: aws, oracle(currently using)
 
 ## current
-studying java language  
 studying arm assembly  
 studying Verliog  
   
