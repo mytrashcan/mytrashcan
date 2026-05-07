@@ -10,8 +10,7 @@ tools: git
 cloud platforms: aws, oracle(currently using)
 
 ## current
-studying arm assembly  
-studying Verliog  
+
   
 ## to-do  
   
