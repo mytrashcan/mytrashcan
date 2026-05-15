@@ -10,7 +10,7 @@ tools: git
 cloud platforms: aws, oracle(currently using)
 
 ## current
-
+  compiler, computer architecture, data mining, algorithm
   
 ## to-do  
   
