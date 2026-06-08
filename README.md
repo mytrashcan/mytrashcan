@@ -21,7 +21,7 @@
 
 ## Certifications
 - Google AI Essentials
-- 정보처리기능사
+- Craftsman Information Processing
 - ITQ OA Master
 - TOEIC 900
 ---
