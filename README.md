@@ -1,19 +1,49 @@
-## name  
-kitaejeong
+# Jeong Kitae
 
-## major  
-computer science & engineering
+## About Me
+- Computer Science & Engineering Student
+- Interested in low-latency systems, security, and performance optimization
 
-## skills  
-programming languages: C/C++, Java, Python  
-tools: git  
-cloud platforms: aws, oracle(currently using)
+---
 
-## interests
-Low-latency systems, security, and performance optimization.
+## Skills
+
+### Languages
+- C / C++
+- Java
+- Python
+
+### Tools
+- Git
+
+### Cloud
+- Oracle Cloud Infrastructure (OCI)
+
+## Certifications
+- Google AI Essentials
+- 정보처리기능사
+- ITQ OA Master
+- TOEIC 900
+---
+
+## Currently Studying
+- Compiler
+- Computer Architecture
+- Data Mining
+- Algorithms
+- Automata Theory
+- Machine Learning
   
-## current
-compiler, computer architecture, data mining, algorithm
-  
-## to-do  
-  
+---
+
+## Interests
+- Low-latency Systems
+- Security
+- Performance Optimization
+
+---
+
+## To-Do
+
+
+---
