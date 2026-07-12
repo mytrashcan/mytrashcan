@@ -35,7 +35,6 @@ Developer interested in low-latency systems, security, and performance optimizat
 | Project | Description |
 | --- | --- |
 | [`dcinsideImageCrawler`](https://github.com/mytrashcan/dcinsideImageCrawler) | Python-based image crawling and gallery tooling |
-| [`mytrashcan.github.io`](https://github.com/mytrashcan/mytrashcan.github.io) | Personal website and experiments |
 | [`sbox-dumper`](https://github.com/mytrashcan/sbox-dumper) | C# reverse-engineering / tooling project |
 | [`MarketGuard`](https://github.com/mytrashcan/MarketGuard) | Java-based market monitoring project |
 
