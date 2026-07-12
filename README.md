@@ -30,12 +30,20 @@ Developer interested in low-latency systems, security, and performance optimizat
   <img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
 </p>
 
+### AI & Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Hermes%20Agent-5B5BF7?style=flat-square&logo=robot&logoColor=white" alt="Hermes Agent" />
+  <img src="https://img.shields.io/badge/mem0-111827?style=flat-square&logo=databricks&logoColor=white" alt="mem0" />
+</p>
+
 ## Featured projects
 
 | Project | Description |
 | --- | --- |
 | [`dcinsideImageCrawler`](https://github.com/mytrashcan/dcinsideImageCrawler) | Python-based image crawling and gallery tooling |
-| [`mytrashcan.github.io`](https://github.com/mytrashcan/mytrashcan.github.io) | Personal website and experiments |
 | [`sbox-dumper`](https://github.com/mytrashcan/sbox-dumper) | C# reverse-engineering / tooling project |
 | [`MarketGuard`](https://github.com/mytrashcan/MarketGuard) | Java-based market monitoring project |
 
