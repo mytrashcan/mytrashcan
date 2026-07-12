@@ -1,49 +1,54 @@
-# Jeong Kitae
+<div align="center">
 
-## About Me
-- Computer Science & Engineering Student
-- Interested in low-latency systems, security, and performance optimization
+# JEONG KITAE
 
----
+### `mytrashcan` · Computer Science & Engineering Student
 
-## Skills
+Developer interested in low-latency systems, security, and performance optimization.
 
-### Languages
-- C / C++
-- Java
-- Python
+<p>
+  <a href="https://hajinpoka.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.acmicpc.net/user/gyeongjin"><img src="https://img.shields.io/badge/BOJ-0076C0?style=for-the-badge&logo=codeforces&logoColor=white" alt="BOJ" /></a>
+</p>
 
-### Tools
-- Git
+</div>
 
-### Cloud
-- Oracle Cloud Infrastructure (OCI)
+## About me
+
+- 🎓 Computer Science & Engineering student at **Kyungpook National University**
+- ⚡ Interested in **low-latency systems**, **security**, and **performance optimization**
+- 🧰 I enjoy understanding how software works beneath the abstraction layer
+- ☁️ Building and operating small services with **Oracle Cloud Infrastructure**
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
+</p>
+
+## Featured projects
+
+| Project | Description |
+| --- | --- |
+| [`dcinsideImageCrawler`](https://github.com/mytrashcan/dcinsideImageCrawler) | Python-based image crawling and gallery tooling |
+| [`mytrashcan.github.io`](https://github.com/mytrashcan/mytrashcan.github.io) | Personal website and experiments |
+| [`sbox-dumper`](https://github.com/mytrashcan/sbox-dumper) | C# reverse-engineering / tooling project |
+| [`MarketGuard`](https://github.com/mytrashcan/MarketGuard) | Java-based market monitoring project |
+
+## Currently learning
+
+`Compiler` · `Computer Architecture` · `Data Mining` · `Algorithms` · `Automata Theory` · `Machine Learning`
 
 ## Certifications
-- Google AI Essentials
-- Craftsman Information Processing
-- ITQ OA Master
-- TOEIC 900
----
 
-## Currently Studying
-- Compiler
-- Computer Architecture
-- Data Mining
-- Algorithms
-- Automata Theory
-- Machine Learning
-  
----
+Google AI Essentials · Craftsman Information Processing · ITQ OA Master · TOEIC 900
 
-## Interests
-- Low-latency Systems
-- Security
-- Performance Optimization
+<div align="center">
 
----
+### Keep building. Keep digging.
 
-## To-Do
-
-
----
+</div>
