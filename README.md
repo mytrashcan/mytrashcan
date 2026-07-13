@@ -43,7 +43,7 @@ Developer interested in low-latency systems, security, and performance optimizat
 
 | Project | Description |
 | --- | --- |
-| [`gallery-image-relay`](https://github.com/mytrashcan/gallery-image-relay) | Multi-platform image crawler and relay for Discord, Telegram, and an ephemeral web gallery |
+| [`gallery-image-relay`](https://github.com/mytrashcan/gallery-image-relay) | Multi-platform image relay with a volatile RAM-only gallery and no persistent image storage |
 | [`sbox-dumper`](https://github.com/mytrashcan/sbox-dumper) | C# reverse-engineering / tooling project |
 | [`MarketGuard`](https://github.com/mytrashcan/MarketGuard) | Java-based market monitoring project |
 
