@@ -59,8 +59,6 @@ I am a Computer Science & Engineering student at **Kyungpook National University
   <img src="https://img.shields.io/badge/Hermes%20Agent-5B5BF7?style=flat-square" alt="Hermes Agent" />
 </p>
 
-I use coding agents as engineering tools: to investigate real code paths, tighten feedback loops, and turn decisions into tested changes.
-
 ## Credentials
 
 <sub>Google AI Essentials · Information Processing Craftsman · ITQ OA Master · TOEIC 900</sub>
