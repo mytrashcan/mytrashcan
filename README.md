@@ -14,7 +14,7 @@
 
 </div>
 
-## Building below the abstraction layer
+## About
 
 I am a Computer Science & Engineering student at **Kyungpook National University**. I like software that is measurable, explainable, and dependable—from runtime internals and security boundaries to distributed delivery and production operations.
 
@@ -28,8 +28,8 @@ I am a Computer Science & Engineering student at **Kyungpook National University
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mytrashcan/OpenStreamGrid">OpenStreamGrid</a></h3>
-      <p>Hybrid P2P-CDN middleware for standards-based live streaming, with verified segment delivery and immediate origin fallback.</p>
-      <p><code>TypeScript</code> <code>Node.js</code> <code>WebRTC</code> <code>HLS</code></p>
+      <p>Hybrid P2P-CDN middleware for MPEG-TS HLS, with verified segment delivery and immediate origin fallback.</p>
+      <p><code>TypeScript</code> <code>Node.js</code> <code>WebRTC</code> <code>MPEG-TS HLS</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mytrashcan/MarketGuard">MarketGuard</a></h3>
@@ -85,11 +85,3 @@ I use coding agents as engineering tools: to investigate real code paths, tighte
 `Distributed systems` · `Application security` · `Performance engineering` · `Compilers` · `Machine learning`
 
 <sub>Google AI Essentials · Information Processing Craftsman · ITQ OA Master · TOEIC 900</sub>
-
-<div align="center">
-
----
-
-**Stay curious. Measure twice. Ship deliberately.**
-
-</div>
