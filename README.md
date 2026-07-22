@@ -80,8 +80,8 @@ I am a Computer Science & Engineering student at **Kyungpook National University
 
 I use coding agents as engineering tools: to investigate real code paths, tighten feedback loops, and turn decisions into tested changes.
 
-## Learning loop
-
-`Distributed systems` · `Application security` · `Performance engineering` · `Compilers` · `Machine learning`
+## Credentials
 
 <sub>Google AI Essentials · Information Processing Craftsman · ITQ OA Master · TOEIC 900</sub>
+
+## Learning loop
