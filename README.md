@@ -58,6 +58,7 @@ This profile is built and maintained using an AI-assisted development workflow. 
 <p>
   <img src="https://img.shields.io/badge/Hermes%20Agent-5B5BF7?style=flat-square" alt="Hermes Agent" />
   <img src="https://img.shields.io/badge/Codex%20CLI-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex CLI" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/GitHub%20MCP-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub MCP" />
 </p>
 
@@ -65,6 +66,7 @@ This profile is built and maintained using an AI-assisted development workflow. 
 |------|------|
 | **[Hermes Agent](https://hermes-agent.nousresearch.com)** | AI assistant orchestrating Discord-based automation, cron jobs, GitHub ops (PR review, issue triage), and sub-agent delegation |
 | **[OpenAI Codex CLI](https://github.com/openai/codex)** | Primary coding agent — all implementation and feature development (gpt-5.6-sol via ChatGPT Plus) |
+| **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** | Used alongside Codex for certain coding tasks and code review |
 | **GitHub MCP + Cron** | Automated PR review, issue triage, and repository management via Model Context Protocol |
 | **Model Context Protocol (MCP)** | Unified tool integration across GitHub, filesystem, terminal, and web services |
 
