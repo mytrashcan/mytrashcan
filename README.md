@@ -46,7 +46,7 @@ I am a Computer Science & Engineering student at **Kyungpook National University
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mytrashcan/sbox-dumper">sbox-dumper</a></h3>
       <p>Single-pass .NET runtime inspector that extracts managed offsets, player data, and component references with ClrMD.</p>
-      <p><code>C#</code> <code>.NET 8</code> <code>ClrMD</code> <code>Runtime Analysis</code></p>
+      <p><code>C#</code> <code>.NET 10</code> <code>ClrMD</code> <code>Runtime Analysis</code></p>
     </td>
   </tr>
 </table>
