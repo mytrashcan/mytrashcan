@@ -67,7 +67,7 @@ This profile is built and maintained using an AI-assisted development workflow. 
 | Tool | Role |
 |------|------|
 | **[Hermes Agent](https://hermes-agent.nousresearch.com)** | AI assistant orchestrating Discord-based automation, cron jobs, GitHub ops (PR review, issue triage), and sub-agent delegation |
-| **[OpenAI Codex](https://github.com/openai/codex)** | Primary coding agent — all implementation and feature development (gpt-5.6-sol via ChatGPT Plus) |
+| **[OpenAI Codex](https://github.com/openai/codex)** | Primary coding agent — all implementation and feature development |
 | **[OpenCode Go](https://opencode.ai)** | Primary chat/brain model provider — Hermes runs via the OpenCode Go Zen API |
 | **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** | Used alongside Codex for certain coding tasks and code review |
 | **GitHub MCP + Cron** | Automated PR review, issue triage, and repository management via Model Context Protocol |
