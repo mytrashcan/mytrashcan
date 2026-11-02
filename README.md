@@ -1,1 +1,1 @@
-Hello, my name is Kitae, but you can call me Paul.
+hello my name is kitae but you can call me paul.
